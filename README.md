@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amallhalim
+- 👋 Hi, I’m Amallhalim
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning javascript
 <!-- - 💞️ I’m looking to collaborate on  -->
