@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to amal Dergham's profile!
+  Welcome to amal halim's profile!
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with Me :
 
-<a href= "www.linkedin.com/in/amal-halim" target="_blank"><img src="https://img.shields.io/badge/-amal%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href= "www.linkedin.com/in/amal-halim" target="_blank"><img src="https://img.shields.io/badge/-amal%20halim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
